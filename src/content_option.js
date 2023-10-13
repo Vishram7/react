@@ -1,18 +1,14 @@
-const logotext = "{Initials Here}";
+const logotext = "Vishram";
 const meta = {
-    title: "{Your name}",
-    description: "I'm {Your name}, a technologist and cybersecurity enthuist.",
+    title: "Vishram",
+    description: "I'm Vishram, a Software Engineer and Full Stack Developer.",
 };
 
 const introdata = {
-    title: "Hi, I'm {Your Name}",
+    title: "Hi, I'm Vishram",
     animated: {
-        first: "Technologist",
-        second: "Visionary",
-        third: "Ethical Hacker",
-        fourth: "Programmer",
-        fifth: "Malware Developer",
-        sixth: "Analyst",
+        first: "Software Engineer",
+        second: "Full Stack Developer"
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
     description: "Dedicated technology enthusiast with an insatiable curiosity for unraveling the complexities of our digital world.",
@@ -47,29 +43,37 @@ const skills = [{
     {
         name: "C",
     },
-    
+
     {
-        name: "Java",
-    },
-    
-    {
-        name: "Bash",
+        name: "React",
     },
 
     {
-        name: "Powershell",
+        name: "JavaScript",
     },
 
     {
-        name: "Reverse Engineering",
+        name: "HTML",
     },
 
     {
-        name: "Web-Exploitation",
+        name: "CSS",
     },
 
-    {
-        name: "Network Exploitation",
+      {
+        name: "Expressjs",
+    },
+
+      {
+        name: "Nodejs",
+    },
+
+      {
+        name: "MongoDB",
+    },
+
+     {
+        name: "DJANGO",
     },
 ];
 
